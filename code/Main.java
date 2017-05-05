@@ -6,7 +6,7 @@ public class Main {
 	}
 
 	private String getMessage() {
-		return "Hello, world";
+		return "Hello, world!";
 	}
 
 }
